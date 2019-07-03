@@ -4,13 +4,12 @@
 # via a script
 
 androidxLibVersion = "1.0.0"
-coreVersion = "1.0.0-beta02"
-extJUnitVersion = "1.0.0-beta02"
-extTruthVersion = "1.0.0-beta02"
-runnerVersion = "1.1.0-beta02"
-rulesVersion = "1.1.0-beta02"
-espressoVersion = "3.1.0-beta02"
-uiAutomatorVersion = "2.2.0-beta02"
-
+coreVersion = "1.2.0-beta01"
+extJUnitVersion = "1.1.1-beta01"
+extTruthVersion = "1.2.0-beta01"
+runnerVersion = "1.2.0-beta01"
+rulesVersion = "1.2.0-beta01"
+espressoVersion = "3.2.0-beta01"
+uiAutomatorVersion = "2.2.0"
 minSdkVersion = "14"
 targetSdkVersion = "28"
